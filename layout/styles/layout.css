@@ -8,7 +8,9 @@ Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 File: Layout CSS
 */
-
+html{
+	scroll-behavior: smooth;
+}
 @import url("fontawesome-free/css/fontawesome-all.min.css");
 @import url("framework.css");
 
