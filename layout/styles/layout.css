@@ -11,6 +11,10 @@ File: Layout CSS
 @import url("fontawesome-free/css/fontawesome-all.min.css");
 @import url("framework.css");
 
+
+html{
+	scroll-behavior: smooth;
+}
 .group-images{
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
